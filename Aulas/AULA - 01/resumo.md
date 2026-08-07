@@ -1,0 +1,3 @@
+# Resumo
+
+O desenvolvimento **Front-end** é responsável por criar a interface com a qual o usuário interage, organizando os elementos visuais e proporcionando uma boa experiência de uso. Para isso, utiliza tecnologias como **HTML**, **CSS** e **JavaScript**, sendo o **Vanilla JavaScript** a versão pura da linguagem, sem bibliotecas ou frameworks, essencial para adicionar interatividade e manipular páginas web. Além da programação, o processo de desenvolvimento envolve a definição do escopo, prototipação, validação de ideias e refinamento da usabilidade, garantindo que o projeto atenda às necessidades dos usuários antes de sua implementação.
