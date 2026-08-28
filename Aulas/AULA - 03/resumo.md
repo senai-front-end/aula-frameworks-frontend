@@ -10,9 +10,3 @@
 * **Git:** usado para controlar versões e acompanhar as mudanças do projeto.
 * **Node.js:** necessário para criar projetos com Angular, Vue e Next.js.
 
-## Para decorar
-
-**React = Biblioteca**
-**Angular = Framework**
-**Vue = Framework**
-**Next.js = Framework baseado em React** 
